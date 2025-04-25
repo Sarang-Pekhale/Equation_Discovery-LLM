@@ -46,4 +46,12 @@ We evaluate our method across a set of well-known partial differential equations
 Our method demonstrates competitive or superior performance compared to state-of-the-art models such as LLM4ED (Mengge Du et al.), especially in discovering interpretable and accurate equations from sparse or noisy data.
 ![Comparison](https://github.com/user-attachments/assets/5053f614-0ce1-44f0-9f44-36c4cd8e09de)
 
+## 📚 Citation
+
+@misc{roy_pekhale_2025,
+  author = {Roy, Amartya and Pekhale, Sarang},
+  title = {Large Language Models for Automatic Equation Discovery of Nonlinear Dynamics},
+  year = {2025},
+  note = {Unpublished work}
+}
 
