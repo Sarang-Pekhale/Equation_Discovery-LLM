@@ -50,7 +50,7 @@ Our method demonstrates competitive or superior performance compared to state-of
 
 @misc{roy_pekhale_2025,
   author = {Roy, Amartya and Pekhale, Sarang},
-  title = {Large Language Models for Automatic Equation Discovery of Nonlinear Dynamics},
+  title = {LLM-DDE: Large Language Model for Data-Driven Equation Discovery},
   year = {2025},
   note = {Unpublished work}
 }
